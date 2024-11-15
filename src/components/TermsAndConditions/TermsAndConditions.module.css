@@ -1,0 +1,17 @@
+.morelinks {
+    width: 85%;
+    margin: 0 auto;
+    padding-left: 20px;
+}
+
+.morelinks a {
+    color: #71767b;
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 10px;
+    font-size: 14px;
+}
+
+.morelinks a:hover {
+    color: #fff;
+}

@@ -1,0 +1,37 @@
+.rowItem {
+    border-radius: 30px;
+    padding: 12px 20px;
+    width: fit-content;
+    cursor: pointer;
+    list-style-type: none;
+    margin-bottom: 4px;
+}
+
+.rowItem:hover {
+    background-color: rgb(54, 54, 54);
+    transition: all 0.3s linear;
+}
+
+.rowItemLabelStyle {
+    text-decoration: none;
+    color: white;
+}
+
+.rowItemLabelStyle .fontIcon {
+    padding-right: 15px;
+}
+
+span {
+    text-decoration: none;
+    color: white;
+}
+
+
+.customIconContainer {
+    margin-left: -6px;
+    margin-right: 10px;
+}
+
+.customIcon {
+    border-radius: 50%;
+}

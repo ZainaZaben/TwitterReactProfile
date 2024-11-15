@@ -1,0 +1,19 @@
+.pageHeader {
+  display: flex;
+  align-items: center;
+}
+
+.pageHeader .backArrow {
+  margin: 10px;
+  padding: 10px;
+  border-radius: 50%;
+}
+
+.pageHeader .backArrow:hover {
+  background-color: #706d6d;
+}
+
+.pageHeader .bottom p {
+  font-size: 14px;
+  color: #71767b;
+}

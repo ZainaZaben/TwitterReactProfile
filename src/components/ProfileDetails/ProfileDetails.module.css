@@ -1,0 +1,55 @@
+.profileDetails {
+  margin: 30px 16px 0;
+}
+
+.profileDetails p {
+  margin: 7px 0;
+}
+
+.profileDetails .handle,
+.profileDetails h3 {
+  margin: 0;
+}
+
+.profileDetails .handle {
+  font-size: 14px;
+  color: #71767b;
+}
+
+.profileDetails .links a {
+  margin-left: 5px;
+  margin-right: 25px;
+}
+
+.profileDetails .links a:visited {
+  color: #1d9bf0;
+}
+
+.profileDetails .joiningDatep {
+  margin-left: 8px;
+  font-size: 15px;
+  display: inline-block;
+}
+
+.profileDetails a.followsDetails {
+  font-size: 15px;
+  display: inline-block;
+  margin-right: 10px;
+  color: white !important;
+}
+
+.profileDetails a {
+  text-decoration: none;
+}
+
+.profileDetails a:hover {
+  text-decoration: underline;
+}
+
+.followsPeople {
+  font-size: 15px;
+}
+
+.grey {
+  color: #71767b;
+}

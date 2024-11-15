@@ -1,0 +1,18 @@
+.main {
+    display: flex;
+    align-items: stretch;
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.main .leftPart {
+    border-right: 1px solid #3a3a3a;
+    border-left: 1px solid #3a3a3a;
+    flex: 1.8;
+    margin-bottom: 15px;
+}
+
+.main .rightPart {
+    flex: 1;
+}
