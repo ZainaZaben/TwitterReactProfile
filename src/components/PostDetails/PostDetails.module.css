@@ -1,0 +1,20 @@
+.postDetails {
+  display: flex;
+  align-items: center;
+  justify-content: space-betweens;
+  padding-top: 20px;
+  color: var(--secondaryColor);
+}
+
+.postDetails span:hover {
+  color: white;
+  cursor: pointer;
+}
+
+.postDetails>span {
+  margin: 0 auto;
+}
+
+.icon {
+  margin-right: 5px;
+}

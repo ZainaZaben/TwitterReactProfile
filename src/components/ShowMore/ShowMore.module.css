@@ -1,0 +1,9 @@
+.showMore {
+    text-decoration: none;
+    color: #1b89d2;
+    margin-left: 10px;
+}
+
+.showMore:hover {
+    text-decoration: underline;
+}
